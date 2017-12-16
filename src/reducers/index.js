@@ -1,8 +1,8 @@
 import { combineReducers } from 'redux';
-import counterReducer from './counterReducer';
+import memberList from './memberList'
 
-const counterApp = combineReducers({
-  counterReducer
+const roomMateApp = combineReducers({
+  memberList
 })
 
-export default counterApp
+export default roomMateApp

@@ -1,1 +1,9 @@
+.name-head{
+    color: brown;
+    font-size: large;
+}
 
+.name-val{
+    color: blue;
+    font-size: medium;
+}
